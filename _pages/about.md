@@ -51,14 +51,14 @@ We explore the geometric insights of point clouds, which provide explicit regist
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/ispc-lab/GeoNLF/blob/main/assets/fig2.png" width="600" />
+    <img src="https://private-user-images.githubusercontent.com/51731102/319222348-e23640bf-bd92-4ee0-88b4-375faf8c9b4d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY3MDkxNDUsIm5iZiI6MTc1NjcwODg0NSwicGF0aCI6Ii81MTczMTEwMi8zMTkyMjIzNDgtZTIzNjQwYmYtYmQ5Mi00ZWUwLTg4YjQtMzc1ZmFmOGM5YjRkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTAxVDA2NDA0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhY2Q1MmVlYjZmMTU3ZjM4ZDQ1YzE2M2Y1NTVmZDQ3OGI0ZGFiYjMwMmMzYTk1NTZjNDFjY2U2MGFhNTQxYWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ShmHU9pfoL8qNg9m44xu1NPNRpjQmISYMoERGGTspfA" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     
     "<i>LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis</i>"<br>   
     Zehan Zheng, Fan Lu, <b>Weiyi Xue</b>, Guang Chen, Changjun Jiang.<br>
     <b> CVPR 2024</b>
       <a href="https://arxiv.org/abs/2404.02742">Arxiv</a>
-      <a href="(https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing">Poster</a>
+      <a href="https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing">Poster</a>
       <a href="https://github.com/ispc-lab/LiDAR4D">Code</a>
       <a href="https://drive.google.com/file/d/1Q6yTVGoBf_nfWR4rW9RcSGlxRMufmSXc/view?usp=sharing">Slides</a>
     </span><br>
