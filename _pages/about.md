@@ -87,37 +87,29 @@ a patch-to-patch manner.
 
 ## 💻Research Experience
 - July 2023 - Present  
-  **Research Assistant** - **Tongji Integrated Positioning Lab ([TJ-IP Lab](https://github.com/TJ-IPLab/)), Tongji University**  
-  Advisor: [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm) and [Prof. Guirong Zhuo](https://auto.tongji.edu.cn/info/1180/6595.htm)         
+  **Research Assistant** - **Generalist Embodied AI Lab ([GEAI Lab](https://www.embodiment.ai/)), Tongji University**  
+  Advisor: Prof. Guang Chen         
   Research included: Diffusion Models, LiDAR SLAM, 4D Radar Perception and Super-Resolution
 
 - April 2025 - Present  
-  **Research Intern** - **NLP-MM Group, HKUST(GZ)**  
-  Advisor: [Prof. Xuming Hu](https://xuminghu.github.io/) and [Dr. Xu Zheng](https://zhengxujosh.github.io/)    
-  Research included: MLLMs, Embodied AI, Multimodal Spatial Reasoning 
+  **Research Intern** - **Machine Learning Group, DJI**    
+  Research included: MLLMs, 3D/4DGS
   
 &nbsp;
 
 ## 🛠️Engineering Experience
 - 2019 - 2022  
-  **Tongji University (Formula SAE) [DIAN Racing Team](http://www.dianracing.com/)** ⚡🏎️   
-  Aerodynamics Designer  
-  Achieve 1st in FSEC 2020  
-  Best Design Report Award in FSEC 2020  
-
-- 2021 - 2022  
-**Tongji University (Formula SAE) [DIAN Driverless Team](http://www.dianracing.com/)** ⚡🏎️   
-  Aerodynamics Designer & Perception Group Member  
-  Achieve 3rd in FSAC 2021  
-  Best Design Report Award in FSAC 2021 
+  **National-level Undergraduate Innovation Training Program** ⚡🏎️   
+  Team leader
+  Self-adjusting Rearview Mirror Based on Human Eye Key Point Recognition, and successfully finalized and concluded the project.
+  The Bronze Award in the ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technology Works Competition.
 
 &nbsp;   
 
 ## 🏆Honors and Awards
-- Excellent Graduate of Tongji University, 2023
 - Outstanding Student of Tongji University, 2021
-- First Prize of Tongji University Scholarship (Top 5%), 2021, 2022
-- National First Prize in Formula Student Electric China Competition (FSEC), 2020
-- Undergraduate Freshman Scholarship of Tongji University (Top 3 in Hebei Province), 2018  
+- First Prize of Tongji University Scholarship (Top 5%), 2021
+- Silver Award in the China International College Students’ Innovation Competition, 2020
+- The Bronze Award in the ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technology Works Competition, 2020  
 
 &nbsp;  
