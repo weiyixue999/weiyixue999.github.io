@@ -62,7 +62,7 @@ We explore the geometric insights of point clouds, which provide explicit regist
       <a href="https://github.com/ispc-lab/LiDAR4D">Code</a>
       <a href="https://drive.google.com/file/d/1Q6yTVGoBf_nfWR4rW9RcSGlxRMufmSXc/view?usp=sharing">Slides</a>
     </span><br>
-Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and --><!--generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.
+Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.
   </td>
 </tr>
 
