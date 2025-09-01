@@ -68,7 +68,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/ispc-lab/GeoNLF/blob/main/assets/fig2.png" width="600" />
+    <img src="https://github.com/weiyixue999/weiyixue.github.io/blob/master/images/themes/hdmnet.png?raw=true" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     
     "<i>HDMNet: AHierarchical Matching Network with Double Attention for Large-scale Outdoor LiDAR Point Cloud Registration</i>"<br>   
