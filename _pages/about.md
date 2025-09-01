@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Boyuan Zheng's Homepage"
+title: "Weiyi Xue's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,22 +10,20 @@ redirect_from:
 
 ## 💫About Me
 
-I am currently a second-year M.S.E. student at [TJ-IP Lab](https://github.com/TJ-IPLab/) of [Tongji University](https://www.tongji.edu.cn/) and advised by [Prof. Lu Xiong](https://auto.tongji.edu.cn/info/1146/6330.htm). Before this, I obtained the bachelor’s degree in Vehicle Engineering at Tongji University.
+I am currently a second-year M.S.E. student at [GEAI Lab](https://www.embodiment.ai/) of [Tongji University](https://www.tongji.edu.cn/) and advised by [Prof. Guang Chen]. Before this, I obtained the bachelor’s degree in Vehicle Engineering at Tongji University.
 
-My research interests mainly focus on 3D Computer Vision, including Diffusion Models, Simultaneous Localization And Mapping (SLAM) and Autonomous Driving. More recently, I have been exploring Multi-modal Large Models and Embodied AI.
-
+My research interests mainly focus on 3D Computer Vision, in my previous work, I have engaged in research spanning point cloud representation learning/registration to NeRF/Gaussian Splatting. In the short term, my focus is on exploring the intersection of generative models and 3D vision, particularly in tasks such as content generation and scene editing. Looking further ahead, I am especially interested in world models and their potential applications, including simulation and integration with vision-language-action (VLA) systems.
 &nbsp;
 
 
 ## 🔥News
 
-**[2025/06]**  Invited as a Reviewer for **IEEE Robotics and Automation Letters (RA-L)**.    
-**[2025/06]**  🎉 One paper on 4D radar super-resolution accepted to **IROS 2025**.        
-**[2025/04]**  Started an internship at HKUST(GZ), Guangzhou, China.    
-**[2024/12]**  Passed the mid-term evaluation of the master's program.    
-**[2024/06]**  Published an invention patent on LiDAR place recognition.    
-**[2023/09]**  Joined **TJ-IP Lab** at Tongji University to pursue my M.Sc. degree.    
-**[2023/06]**  Awarded **"Excellent Graduate"** of Tongji University.    
+**[2025/07]**  Invited as a Reviewer for **AAAI**.   
+**[2025/05]**  Invited as a Reviewer for **NeurIPS**. 
+**[2025/05]**  Started an internship at DJI, machine learning group, Shenzhen, China. 
+**[2024/09]**  🎉 One paper on pose-free reconstruction accepted to **NeurIPS 2024**.
+**[2024/02]**  🎉 One paper on dynamic scene reconstruction accepted to **CVPR 2024**.   
+**[2023/10]**  🎉 One paper on point cloud registration accepted to **WACV 2024**.    
 **[2023/06]**  Graduated with a Bachelor's degree from Tongji University, Shanghai, China.    
  
 &nbsp;
