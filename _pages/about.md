@@ -34,7 +34,7 @@ My research interests mainly focus on 3D Computer Vision, in my previous work, I
   
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/weiyixue999/weiyixue.github.io/blob/master/images/themes/geonlf.png?raw=true" width="600" />
+    <img src="https://raw.githubusercontent.com/weiyixue999/weiyixue.github.io/refs/heads/master/_pages/geonlf.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     
     "<i>GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields</i>"<br>   
@@ -51,7 +51,7 @@ We explore the geometric insights of point clouds, which provide explicit regist
 
 <tr style="border-collapse: separate; border-spacing:none;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://github.com/weiyixue999/weiyixue.github.io/blob/master/images/themes/lidar4d.png?raw=true" width="600" />
+    <img src="https://raw.githubusercontent.com/weiyixue999/weiyixue.github.io/refs/heads/master/_pages/lidar4d.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     
     "<i>LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis</i>"<br>   
@@ -96,7 +96,7 @@ a patch-to-patch manner.
   Research included: MLLMs, 3D/4DGS
 
 - July 2023 - Present  
-  **Research Assistant** - ** **Integrated Positioning Lab ([IPLab](https://www.embodiment.ai/)), Tongji University**  
+  **Research Assistant** - **Integrated Positioning Lab ([IPLab](https://www.embodiment.ai/)), Tongji University**  
   Advisor: Prof. Lu Xiong         
   Research included: SLAM, Point Cloud
   
@@ -104,7 +104,7 @@ a patch-to-patch manner.
 
 ## 🛠️Engineering Experience
 - 2019 - 2020  
-  **National-level Undergraduate Innovation Training Program** 
+  **National-level Undergraduate Innovation Training Program**     
   Team leader    
   Self-adjusting Rearview Mirror Based on Human Eye Key Point Recognition, and successfully finalized and concluded the project.
   The Bronze Award in the ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technology Works Competition.
