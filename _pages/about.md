@@ -100,7 +100,7 @@ a patch-to-patch manner.
 ## 🛠️Engineering Experience
 - 2019 - 2022  
   **National-level Undergraduate Innovation Training Program** ⚡🏎️   
-  Team leader
+  Team leader    
   Self-adjusting Rearview Mirror Based on Human Eye Key Point Recognition, and successfully finalized and concluded the project.
   The Bronze Award in the ”Challenge Cup” National Undergraduate Extracurricular Academic Science and Technology Works Competition.
 
