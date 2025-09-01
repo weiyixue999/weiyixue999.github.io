@@ -29,15 +29,6 @@ My research interests mainly focus on 3D Computer Vision, in my previous work, I
 &nbsp;
 
 ## 📝Publications 
-<div class='paper-box'><div class='paper-box-image'><img src='..\static\images\LiDAR4D\dynamic_scene.png' alt="lidar4d" width="100%">
-</div><div class='paper-box-text' markdown="1">
-**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**
-**Zehan Zheng**, Fan Lu, Weiyi Xue, Guang Chen, Changjun Jiang.    -->
-**CVPR**, 2024  
-**[[Paper]](https://arxiv.org/abs/2404.02742) &#124; [[Code]](https://github.com/ispc-lab/LiDAR4D) &#124; [[Project Page]] (https://dyfcalid.github.io/LiDAR4D) &#124; [[Video]](https://www.youtube.com/watch?v=E6XyG3A3EZ8) &#124; [[Talk]](https://www.bilibili.com/video/BV1Uy411Y766/?t=10870) &#124; [[Slides]](https://drive.google.com/file/d/1Q6yTVGoBf_nfWR4rW9RcSGlxRMufmSXc/view?usp=sharing) &#124; [[Poster]](https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing)**
-Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and --><!--generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.
-
-
 
 <table style="border: none; border-collapse: collapse;">
   
@@ -63,31 +54,18 @@ We explore the geometric insights of point clouds, which provide explicit regist
     <img src="https://github.com/ispc-lab/GeoNLF/blob/main/assets/fig2.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">     
-    "<i>GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields</i>"<br>   
-    <b>Weiyi Xue</b>, Zehan Zheng, Fan Lu, Haiyun Wei, Guang Chen†, Changjun Jiang.<br>
-    <b> NeurIPS 2024</b>
-      <a href="https://arxiv.org/abs/2407.05597">Arxiv</a>
-      <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93231.png?t=1733402073.7734404">Poster</a>
-      <a href="https://github.com/ispc-lab/GeoNLF">Code</a>
+    "<i>LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis</i>"<br>   
+    Zehan Zheng, Fan Lu, <b>Weiyi Xue</b>, Guang Chen, Changjun Jiang.<br>
+    <b> CVPR 2024</b>
+      <a href="https://arxiv.org/abs/2404.02742">Arxiv</a>
+      <a href="(https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing">Poster</a>
+      <a href="https://github.com/ispc-lab/LiDAR4D">Code</a>
+      <a href="https://drive.google.com/file/d/1Q6yTVGoBf_nfWR4rW9RcSGlxRMufmSXc/view?usp=sharing">Slides</a>
     </span><br>
-We explore the geometric insights of point clouds, which provide explicit registration priors for reconstruction. Based on this, we propose Geometry guided Neural LiDAR Fields(GeoNLF), a hybrid framework performing alternately global neural reconstruction and pure geometric pose optimization. 
+Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and --><!--generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.
   </td>
 </tr>
 
-
-
-
-<tr style="border-collapse: separate; border-spacing:none;">
-  <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/NathanDrake67/zhengby.github.io/master/images/LPR.png" width="600" />
-  </td>
-  <td style="border-collapse: collapse; border: none;">     
-    "<i>A System and Method for LiDAR Relocalization Based on Fused Semantic Information Descriptors</i>"<br>   
-    <b>Boyuan Zheng</b>, Guirong Zhuo, Lu Xiong.<br>
-    <b>Chinese Patent </b> CN202410446778.9, 2024.<br>
-
-  </td>
-</tr>
 
 </table>
 
