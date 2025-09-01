@@ -55,7 +55,7 @@ We explore the geometric insights of point clouds, which provide explicit regist
   </td>
   <td style="border-collapse: collapse; border: none;">     
     "<i>LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis</i>"<br>   
-    Zehan Zheng, Fan Lu, <b>Weiyi Xue</b>, Guang Chen, Changjun Jiang.<br>
+    Zehan Zheng, Fan Lu, <b>Weiyi Xue</b>, Guang Chen†, Changjun Jiang.<br>
     <b> CVPR 2024</b>
       <a href="https://arxiv.org/abs/2404.02742">Arxiv</a>
       <a href="https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing">Poster</a>
@@ -66,6 +66,20 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
   </td>
 </tr>
 
+<tr style="border-collapse: separate; border-spacing:none;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://github.com/ispc-lab/GeoNLF/blob/main/assets/fig2.png" width="600" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">     
+    "<i>HDMNet: AHierarchical Matching Network with Double Attention for Large-scale Outdoor LiDAR Point Cloud Registration</i>"<br>   
+    <b>Weiyi Xue</b>, Fan Lu, Guang Chen†.<br>
+    <b> WACV 2024</b>
+    <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Xue_HDMNet_A_Hierarchical_Matching_Network_With_Double_Attention_for_Large-Scale_WACV_2024_paper.pdf">Paper</a>
+    </span><br>
+We proposed a feature consistency enhanced double-soft matching network for large-scale outdoor scene point cloud registration, achieving two-stage matching with high flexibility while enlarging the receptive field in
+a patch-to-patch manner.
+  </td>
+</tr>
 
 </table>
 
