@@ -19,17 +19,11 @@ My research interests mainly focus on 3D Computer Vision, in my previous work, I
 ## 🔥News
 
 **[2025/07]**  Invited as a Reviewer for **AAAI**.   
-
-**[2025/05]**  Invited as a Reviewer for **NeurIPS**. 
-
-**[2025/05]**  Started an internship at DJI, machine learning group, Shenzhen, China. 
-
-**[2024/09]**  🎉 One paper on pose-free reconstruction accepted to **NeurIPS 2024**.
-
-**[2024/02]**  🎉 One paper on dynamic scene reconstruction accepted to **CVPR 2024**.  
-
-**[2023/10]**  🎉 One paper on point cloud registration accepted to **WACV 2024**.  
-
+**[2025/05]**  Invited as a Reviewer for **NeurIPS**.   
+**[2025/05]**  Started an internship at DJI, machine learning group, Shenzhen, China.    
+**[2024/09]**  🎉 One paper on pose-free reconstruction accepted to **NeurIPS 2024**.   
+**[2024/02]**  🎉 One paper on dynamic scene reconstruction accepted to **CVPR 2024**.     
+**[2023/10]**  🎉 One paper on point cloud registration accepted to **WACV 2024**.     
 **[2023/06]**  Graduated with a Bachelor's degree from Tongji University, Shanghai, China.    
  
 &nbsp;
