@@ -53,7 +53,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
       <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93231.png?t=1733402073.7734404">Poster</a>
       <a href="https://github.com/ispc-lab/GeoNLF">Code</a>
     </span><br>
-    Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and --><!--generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.
+We explore the geometric insights of point clouds, which provide explicit registration priors for reconstruction. Based on this, we propose Geometry guided Neural LiDAR Fields(GeoNLF), a hybrid framework performing alternately global neural reconstruction and pure geometric pose optimization. 
   </td>
 </tr>
 
