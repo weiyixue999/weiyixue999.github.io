@@ -43,7 +43,7 @@ My research interests mainly focus on 3D Computer Vision, in my previous work, I
       <a href="https://arxiv.org/abs/2407.05597">Arxiv</a>
       <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93231.png?t=1733402073.7734404">Poster</a>
       <a href="https://github.com/ispc-lab/GeoNLF">Code</a>
-    </span><br>
+    <br>
 We explore the geometric insights of point clouds, which provide explicit registration priors for reconstruction. Based on this, we propose Geometry guided Neural LiDAR Fields(GeoNLF), a hybrid framework performing alternately global neural reconstruction and pure geometric pose optimization. 
   </td>
 </tr>
@@ -61,7 +61,7 @@ We explore the geometric insights of point clouds, which provide explicit regist
       <a href="https://drive.google.com/file/d/13cf0rSjCjGRyBsYOcQSa6Qf1Oe1a5QCy/view?usp=sharing">Poster</a>
       <a href="https://github.com/ispc-lab/LiDAR4D">Code</a>
       <a href="https://drive.google.com/file/d/1Q6yTVGoBf_nfWR4rW9RcSGlxRMufmSXc/view?usp=sharing">Slides</a>
-    </span><br>
+    <br>
 Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.
   </td>
 </tr>
@@ -75,7 +75,7 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
     <b>Weiyi Xue</b>, Fan Lu, Guang Chen†.<br>
     <b> WACV 2024</b>
     <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Xue_HDMNet_A_Hierarchical_Matching_Network_With_Double_Attention_for_Large-Scale_WACV_2024_paper.pdf">Paper</a>
-    </span><br>
+    <br>
 We proposed a feature consistency enhanced double-soft matching network for large-scale outdoor scene point cloud registration, achieving two-stage matching with high flexibility while enlarging the receptive field in
 a patch-to-patch manner.
   </td>
