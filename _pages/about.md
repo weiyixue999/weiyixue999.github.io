@@ -47,11 +47,13 @@ Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, w
   </td>
   <td style="border-collapse: collapse; border: none;">     
     "<i>GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields</i>"<br>   
-    <b>Weiyi Xue</b>, Zehan Zheng, Fan Lu, Haiyun Wei, Guang Chen†, Changjun Jiang. <b> NeurIPS 2024</b> <br>
+    <b>Weiyi Xue</b>, Zehan Zheng, Fan Lu, Haiyun Wei, Guang Chen†, Changjun Jiang.<br>
+    <b> NeurIPS 2024</b>
       <a href="https://arxiv.org/abs/2407.05597">Arxiv</a>
       <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202024/93231.png?t=1733402073.7734404">Poster</a>
       <a href="https://github.com/ispc-lab/GeoNLF">Code</a>
     </span><br>
+    Differentiable LiDAR-only framework for novel space-time LiDAR view synthesis, which reconstructs dynamic driving scenarios and --><!--generates realistic LiDAR point clouds end-to-end. It also supports simulation in the dynamic scene.
   </td>
 </tr>
 
