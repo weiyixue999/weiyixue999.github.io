@@ -85,9 +85,9 @@ a patch-to-patch manner.
 
 
 
-## 💻Research Experience
+## 💻Research Experience 
 - July 2023 - Present  
-  **Research Assistant** - **Generalist Embodied AI Lab ([IPLab](https://github.com/TJ-IPLab/)), Tongji University**  
+  **Research Assistant** - **Generalist Embodied AI Lab ([GEAI Lab](https://www.embodiment.ai/)), Tongji University**  
   Advisor: Prof. Guang Chen         
   Research included: 3D/4D reconstruction, Diffusion Models
 
@@ -96,7 +96,7 @@ a patch-to-patch manner.
   Research included: MLLMs, 3D/4DGS
 
 - July 2023 - Present  
-  **Research Assistant** - **Integrated Positioning Lab ([IPLab](https://www.embodiment.ai/)), Tongji University**  
+  **Research Assistant** - **Integrated Positioning Lab ([IPLab](https://github.com/TJ-IPLab/)), Tongji University**  
   Advisor: Prof. Lu Xiong         
   Research included: SLAM, Point Cloud
   
