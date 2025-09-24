@@ -18,8 +18,8 @@ My research background is primarily in 3D computer vision, with core experience 
 
 ## 🔥News
 **[2025/09]**  Invited as a Reviewer for **ICLR**.  
-**[2025/09]**  🎉 One paper accepted to **NeurIPS 2025**. 
-**[2025/07]**  Invited as a Reviewer for **AAAI**.   
+**[2025/09]**  🎉 One paper accepted to **NeurIPS 2025**.   
+**[2025/07]**  Invited as a Reviewer for **AAAI**.     
 **[2025/05]**  Invited as a Reviewer for **NeurIPS**.   
 **[2025/05]**  Started an internship at DJI, machine learning group, Shenzhen, China.    
 **[2024/09]**  🎉 One paper on pose-free reconstruction accepted to **NeurIPS 2024**.   
