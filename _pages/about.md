@@ -113,7 +113,7 @@ a patch-to-patch manner.
 &nbsp;   
 
 ## 🏆Honors and Awards
-- Schlor award of NeurIPS, 2025     
+- Scholar award of NeurIPS, 2025     
 - Outstanding Student of Tongji University, 2021
 - First Prize of Tongji University Scholarship (Top 5%), 2021
 - Silver Award in the China International College Students’ Innovation Competition, 2020
