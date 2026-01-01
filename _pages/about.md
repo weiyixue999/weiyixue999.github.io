@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a second-year M.S.E. student at [GEAI Lab](https://www.embodiment.ai/) of [Tongji University](https://www.tongji.edu.cn/) and advised by Prof. Guang Chen. Before this, I obtained the bachelor’s degree in Vehicle Engineering at Tongji University.
 
-My research background is primarily in 3D computer vision, with core experience in point cloud registration, 3D scene reconstruction and generation. In the short term, my research centers on investigating the intersection of generative models and 3D vision, with a specific focus on tasks such as 3D generation and scene editing. Looking further ahead, I am deeply interested in the potential of world models and their applications, such as in simulation and the integration with vision-language-action (VLA) systems.
+My research centers on exploring the intersection of generative modeling and 3D vision, with a particular emphasis on problems such as 3D content generation and 3D-aware video generation. Looking further ahead, I am deeply interested in the broader potential of world models and generative models, both from theoretical perspectives and in terms of their practical applications.
 &nbsp;
 
 
