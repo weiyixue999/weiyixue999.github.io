@@ -17,8 +17,8 @@ My research centers on exploring the intersection of generative modeling and 3D 
 
 
 ## 🔥News
-**[2026/02]**  🎉 One paper accepted to **CVPR 2026**. 
-**[2026/06]**  Graduated with a Master's degree from Tongji University, Shanghai, China.   
+**[2026/06]**  Graduated with a Master's degree from Tongji University, Shanghai, China. 
+**[2026/02]**  🎉 One paper accepted to **CVPR 2026**.   
 **[2026/01]**  🎉 One paper accepted to **ICLR 2026**.     
 **[2025/09]**  🎉 One paper accepted to **NeurIPS 2025**.   
 **[2025/05]**  Started an internship at DJI, machine learning group, Shenzhen, China.    
